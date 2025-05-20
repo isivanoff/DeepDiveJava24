@@ -1,4 +1,4 @@
-# DeepDiveJava23
+# DeepDiveJava24
 
 This is a demo project to show some new features of Java™ 24. (For previous version go to [DeepDiveJava23](https://github.com/pioorg/DeepDiveJava23).)
 
